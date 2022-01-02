@@ -1,7 +1,7 @@
 <!--
 **TreyBMorris/TreyBMorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![TreyBMorris](https://api.lorem.space/image/movie?w=2000&h=760)
+![TreyBMorris](https://api.lorem.space/image/pizza?w=2000&h=760)
 
 ### Hallo! 👋
 **Trey Morris**

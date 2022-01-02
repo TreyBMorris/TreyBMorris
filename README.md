@@ -1,16 +1,13 @@
-### Hi there 👋
-
 <!--
 **TreyBMorris/TreyBMorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<!--![TreyBMorris](https://github.com/ "TreyBMorris")-->
+### Hallo! 👋
+**Trey Morris**
+
+I'm a 19 year old in my freshman year at Kennesaw State University. I've been around Computers my whole life and from a young age I was exposed to basic fundementals of programming. From writing simple HTML websites for me and my friends, to now writing programs in different modern programming languages like Java and C#, I have always wanted to continue my understanding of the worlds of Computuing. 
+
+Current Skill Set:
+- Intermediate Knowledge of HTML (Backed by the HTML LinkedIn Badge)
+- Fundemental Knowledge of Modern Programming Languages such as Java, C#, and some Python.
+- Basic Understanding of Source Control with Github

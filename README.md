@@ -1,7 +1,16 @@
 <!--
 **TreyBMorris/TreyBMorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![TreyBMorris]https://api.lorem.space/image/pizza?w=150&h=150)
+![TreyBMorris](https://api.lorem.space/image/pizza?w=150&h=150)
+
+Get my latest tutorials
+Email
+Related tutorials
+How to modify the commit messages in Git
+How to create a tag in GitHub Repository
+How to push all tags to remote in Git
+How to change a remote URL in Git
+How to clone a single branch 
 ### Hallo! 👋
 **Trey Morris**
 

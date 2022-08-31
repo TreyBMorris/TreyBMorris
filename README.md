@@ -18,4 +18,3 @@ I'm a 19 year old Computer Science Student at Kennesaw State University. I've be
 - Object Oriented Programming, familiar with languages such as Java and Python
 - Basic Understanding of Source Control with Github
 - Familiar with Databases, relational Databases and SQL
-- 

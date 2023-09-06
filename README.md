@@ -14,7 +14,8 @@ I'm a 20 year old Computer Science Student at Kennesaw State University. I've be
 
 
 ## Current Skill Set:
-- Intermediate Knowledge of HTML (Backed by the HTML LinkedIn Badge), Familiarity with Javascript
-- Object Oriented Programming, familiar with languages such as Java and Python
+- Intermediate Knowledge of HTML (Backed by the HTML LinkedIn Badge), Familiarity with Javascript and CSS
+- Object Oriented Programming, familiar with languages such as Java, Python, and C#
 - Basic Understanding of Source Control with Github
 - Familiar with Databases, relational Databases and SQL
+- Familiar with working with consuming web APIs

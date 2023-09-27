@@ -19,3 +19,4 @@ I'm a 20 year old Computer Science Student at Kennesaw State University. I've be
 - Basic Understanding of Source Control with Github
 - Familiar with Databases, relational Databases and SQL
 - Familiar with working with consuming web APIs
+- Familiar with Agile Methodolgies

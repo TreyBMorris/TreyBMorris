@@ -4,7 +4,7 @@
 ![TreyBMorris](https://api.lorem.space/image/pizza?w=2000&h=700)
 
 # Hallo! I'm **Trey Morris**👋
-### Computer Science Student, IT, Website Freelancing
+### Computer Science Student
 
 I'm a 20 year old Computer Science Student at Kennesaw State University. I've been around computers my whole life and from a young age I was exposed to basic fundementals of programming. From writing simple HTML websites for me and my friends, to now writing programs in different modern programming languages like Java, Python, C#, and JavaScript. I have always wanted to continue my understanding in the world of computing. I currently am working in IT for my school and working on expanding my portfolio with different personal coding projects.
 

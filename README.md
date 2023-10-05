@@ -1,7 +1,7 @@
 <!--
 **TreyBMorris/TreyBMorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![TreyBMorris](https://api.lorem.space/image/pizza?w=2000&h=700)
+
 
 # Hallo! I'm **Trey Morris**👋
 ### Computer Science Student
@@ -18,5 +18,6 @@ I'm a 20 year old Computer Science Student at Kennesaw State University. I've be
 - Object Oriented Programming, familiar with languages such as Java, Python, and C#
 - Basic Understanding of Source Control with Github
 - Familiar with Databases, relational Databases and SQL
-- Familiar with working with consuming web APIs
+- Familiar with consuming web APIs
 - Familiar with Agile Methodolgies
+- Familiar With Microsoft Azure

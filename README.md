@@ -25,11 +25,6 @@ I'm a 21 year old Computer Science Student at Kennesaw State University. I've be
           
 <br />
 <br />
-<li>Object Oriented Programming: I've built various projects using different modern languages like Java, C#, and Python. </li>
-<li>Web Development: With web development, I have worked with pure HTML, CSS, and JavaScript to develop a website for currency conversion using a public currency rate API. I am also familiar with Blazor Server of the .NET framework where I was part of a team project for a class. As part of the project, my job included things like building and using and API and databases using CosmosDB and Azure to provide information for our project.</li>
-<li>Databases: I have worked with both relational and non-relational databases. I have worked with Microsoft SQL server and CosmosDB/MongoDB for various different projects.</li>
-<li>Practical Concepts: I have studied and am familiar with various different practical Software Engineering concepts such as agile methodologies, writing unit tests, and writing clean and detailed documentation. I have also been using GitHub for years to host my personal projects, and have actively used source control for these projects.</li>
-<li>Team Oriented Developer: I have worked together with other developers and students on projects to understand what it is like to be apart of a team. Being part of a team has taught me different things, such as making sure I give 100% to the project to be able to succeed as a group, and I have also learned leadership while being a leader on a project for a class.</li>
 
 <details>
  <summary><h3>👨‍💻 Other Computer Stuff I enjoy</h3></summary>

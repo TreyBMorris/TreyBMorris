@@ -1,4 +1,3 @@
-[![GitHub](https://img.shields.io/badge/GitHub-TreyBMorris-black)](https://github.com/TreyBMorris)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-treybmorris-blue)](https://www.linkedin.com/in/treybmorris/)
 [![Website](https://img.shields.io/badge/Website-treymorris.me-yellow)](http://treymorris.me/)
 

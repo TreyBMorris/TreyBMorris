@@ -1,11 +1,12 @@
+[![GitHub](https://img.shields.io/badge/GitHub-TreyBMorris-black)](https://github.com/TreyBMorris)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-treybmorris-blue)](https://www.linkedin.com/in/treybmorris/)
+[![Website](https://img.shields.io/badge/Website-treymorris.me-yellow)](http://treymorris.me/)
+
+
 # Hallo! I'm **Trey Morris**👋
 ### 🖥️ Computer Science Student
 
 I'm a 21 year old Computer Science Student at Kennesaw State University. I've been around computers my whole life and from a young age I was exposed to basic fundementals of programming. From writing simple HTML websites for me and my friends, to now writing programs in different modern programming languages like Java, Python, C#, and JavaScript. I have always wanted to continue my understanding in the world of computing. I currently am working in IT for my school and working on expanding my portfolio with different personal coding projects.
-
-[![GitHub](https://img.shields.io/badge/GitHub-TreyBMorris-black)](https://github.com/TreyBMorris)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-treybmorris-blue)](https://www.linkedin.com/in/treybmorris/)
-[![Website](https://img.shields.io/badge/Website-treymorris.me-yellow)](http://treymorris.me/)
 
 
 

@@ -30,7 +30,6 @@ I'm a 21 year old Computer Science Student at Kennesaw State University. I've be
  <summary><h3>👨‍💻 Other Computer Stuff I enjoy</h3></summary>
  <ul>
    <li>Linux Ricing🍚: I am currently learning about Linux, with my current linux distro being Debian 12. I have taken an enjoyment to learning about customizing my UI experience and my machine. More about linux "ricing" <a href = "https://excaliburzero.gitbooks.io/an-introduction-to-linux-ricing/content/ricing.html">here</a>.</li>
-   <li>Vim/NeoVim🕹️: HELP!!! HOW DO I EXIT????</li>
    <li>PC Building🪛: I have always enjoyed watching Linus Tech Tips and other PC builders on YouTube. I built my first computer shortly before the COVID-19 pandemic in 2020 when computer component prices went through the roof. Great timing.</li>
    <li>Front-End Frameworks🔗: I enjoy making websites, and have enjoyed working with the backend side of web development. I've enjoyed working with APIs and databases. The next thing I really want to learn with web-development is a front-end framework like React or Angular. I hope to learn a front-end framework to enjoy the full-stack aspect of being a web developer and add more tools to my toolbelt.</li>
    <li>Rust🦀: I've recently heard a lot about the Rust programming language. I plan on trying to do some small CLI side projects with Rust to learn about the language and see if I really enjoy it. Any projects with Rust will be posted on my GitHub.</li>

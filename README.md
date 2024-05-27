@@ -5,7 +5,7 @@
 # Hallo! I'm **Trey Morris**👋
 ### 🖥️ Computer Science Student | Software Engineering Intern
 
-I'm a 21 year old Computer Science Student at Kennesaw State University. Starting in the Summer of 2024, I will be a Software Engineering Intern for Zebra Technologies where I will be developing applications using Java Spring Boot, Angular, and MongoDB.
+I'm a 21 year old Computer Science Student at Kennesaw State University. Currently, I am a Software Engineering Intern for Zebra Technologies where I am developing applications using Java Spring Boot, Angular, and MongoDB.
 
 
 ## ⌨️ Current Skill Set:

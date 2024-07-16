@@ -3,9 +3,10 @@
 
 
 # Hallo! I'm **Trey Morris**👋
-### 🖥️ Computer Science Student | Software Engineering Intern
+### 🖥️ Computer Science Student | Software Engineer
 
-I'm a 21 year old Computer Science Student at Kennesaw State University. Currently, I am a Software Engineering Intern for Zebra Technologies where I am developing applications using Java Spring Boot, Angular, and MongoDB.
+I'm a Computer Science Student at Kennesaw State University. Currently, I am a Software Engineering Intern at Zebra Technologies. 
+My main interest is in creating full-stack web applications .
 
 
 ## ⌨️ Current Skill Set:
@@ -19,6 +20,8 @@ I'm a 21 year old Computer Science Student at Kennesaw State University. Current
 <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  />
+
           
 
 

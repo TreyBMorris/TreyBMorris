@@ -6,14 +6,7 @@
 **`🖥️ Computer Science Student | Software Engineer`**
 
 I'm a Computer Science Student at Kennesaw State University. <br/>
-Currently, I am a Software Engineering Intern at Zebra Technologies. <br/>
-My main interest is in creating full-stack web applications with Java Spring Boot, .NET, and Angular.
 
-Currently Learning:
-- React
-- NestJS
-- Docker
-- PostgreSQL
 
 
 ## ⌨️ Current Skill Set:

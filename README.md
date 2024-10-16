@@ -5,7 +5,7 @@
 # Hallo! I'm Trey Morris👋
 **`🖥️ Computer Science Student | Software Engineer`**
 
-I'm a Computer Science Student at Kennesaw State University. <br/>
+I'm a Computer Science Student at Kennesaw State University and an Associate Software Engineer at HighMatch <br/>
 
 
 
